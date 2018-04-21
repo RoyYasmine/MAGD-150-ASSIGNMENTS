@@ -1,28 +1,21 @@
-Welcome to my page! I have included 5 projects that I have done in MAGD.
+**Welcome to my page! I have included 5 projects that I have done in MAGD.**
 
 # *Project 1*
+In project 1, the goal was to create a black and white composition and the theme was outerspace. For this project, I chose to create an alien with a moon in the background.
+
 # *Project 2*
+In project 2, the goal was to create a color composition and the theme was ballons. For this project, I chose to create a rainbow hot air ballon that was soaring past some mountains during the night.
+
 # *Project 3*
+In project 3, the goal was to use math operations in your project and the theme was bubbles. For this project, I chose to create a pig that was blowing bubble gum.
+
 # *Project 6*
+In project 6, the goal was to use organization and the theme was screensavers. For this project, I chose to create random colored cars that would move back and fourth across the screen at different speeds.
+
 # *Project 7*
+In project 7, the goal was to use transformations and the theme was nature. For this project, I chose to create different bugs at each corner of the screen and they all had a different function.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RoyYasmine/MAGD-150-ASSIGNMENTS/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
