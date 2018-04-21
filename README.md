@@ -14,8 +14,3 @@ In project 6, the goal was to use organization and the theme was screensavers. F
 
 # *Project 7*
 In project 7, the goal was to use transformations and the theme was nature. For this project, I chose to create different bugs at each corner of the screen and they all had a different function.
-
-
-[Link](url) and ![Image](src)
-```
-
