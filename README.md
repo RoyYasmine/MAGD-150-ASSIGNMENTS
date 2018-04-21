@@ -1,8 +1,6 @@
 Welcome to my page. I have included 5 projects that I have done in MAGD.
-```markdown
-Syntax highlighted code block
 
-# Header 1
+# Project 1
 ## Header 2
 ### Header 3
 
