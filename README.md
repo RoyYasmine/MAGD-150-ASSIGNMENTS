@@ -1,10 +1,10 @@
-Welcome to my page. I have included 5 projects that I have done in MAGD.
+# Welcome to my page! I have included 5 projects that I have done in MAGD.
 
-# Project 1
-# Project 2
-# Project 3
-# Project 6
-# Project 7
+## Project 1
+## Project 2
+## Project 3
+## Project 6
+## Project 7
 
 - Bulleted
 - List
