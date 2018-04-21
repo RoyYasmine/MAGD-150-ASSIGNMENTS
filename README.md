@@ -1,11 +1,10 @@
 Welcome to my page. I have included 5 projects that I have done in MAGD.
 
 # Project 1
-MAGD-150-ASSIGNMENTS/Project 1.pde
-
-
-## Header 2
-### Header 3
+## Project 2
+### Project 3
+#### Project 6
+##### Project 7
 
 - Bulleted
 - List
